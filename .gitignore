@@ -1,4 +1,6 @@
 glove.42B.300d.txt
 plots/*
 logs/*
-data/*
+data/chao_test_ordered.txt
+data/training_final_ordered.txt
+__pycache__

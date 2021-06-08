@@ -23,6 +23,7 @@ Please contact the authors with the permits for accessing Newsela's data. Then u
 - Python 3.6 or Higher
 - Pytorch = 1.5.0
 - Pandas, Numpy, Pickle, Scipy
+- GLoVe Embedding (unzip glove.42B.300d.txt into current directory)
 
 You can run
 ```
