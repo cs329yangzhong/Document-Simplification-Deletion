@@ -17,7 +17,7 @@ If you would like to refer to it, please cite the paper mentioned above.
 These instructions will introduce the dataset and get you running the codes.
 
 ## Dataset
-Please contact the authors with the permits for accessing Newsela's data. Then unzip the data folder under the root directory.
+Please contact the authors with the signed copy of the [Newsela Data Sharing Agreement](https://newsela.com/data/). Then unzip the data folder under the root directory.
 
 ## Requirements
 - Python 3.6 or Higher
