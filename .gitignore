@@ -3,4 +3,4 @@ plots/*
 logs/*
 data/chao_test_ordered.txt
 data/training_final_ordered.txt
-__pycache__
+__pycache__/
