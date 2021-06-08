@@ -1,0 +1,1 @@
+python main.py -model FullNN -conc 0 -class_to_train G4 -epochs 70 -batch_size 16 -binning 10 -add_features False
